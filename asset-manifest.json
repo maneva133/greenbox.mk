@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/greenbox.mk/static/css/main.a8794f37.css",
+    "main.js": "/greenbox.mk/static/js/main.c74c6a8f.js",
+    "index.html": "/greenbox.mk/index.html",
+    "main.a8794f37.css.map": "/greenbox.mk/static/css/main.a8794f37.css.map",
+    "main.c74c6a8f.js.map": "/greenbox.mk/static/js/main.c74c6a8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8794f37.css",
+    "static/js/main.c74c6a8f.js"
+  ]
+}

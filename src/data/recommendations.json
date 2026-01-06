@@ -1,0 +1,27 @@
+{
+  "recommendations": {
+    "1": [11, 5],
+    "2": [4, 5],
+    "3": [4, 5],
+    "4": [1, 8],
+    "5": [2, 12],
+    "6": [3, 9],
+    "7": [11, 5],
+    "8": [11, 5],
+    "9": [4, 5],
+    "10": [11, 5],
+    "11": [7, 8, 10],
+    "12": [4, 5]
+  },
+  "categoryRules": {
+    "vegetables": [11, 5],
+    "fruits": [4, 5],
+    "packages": [4, 5, 6, 11],
+    "extras": [1, 2, 3, 7, 8, 9, 10]
+  },
+  "categoryDescriptions": {
+    "vegetables": "Perfect with Olive Oil and Nuts",
+    "fruits": "Great with Honey and Nuts"
+  }
+}
+

@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "Fresh Carrots",
+    "category": "vegetables",
+    "price": 2.50,
+    "image": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=400&h=400&fit=crop",
+    "description": "Organic fresh carrots, locally sourced"
+  },
+  {
+    "id": 2,
+    "name": "Red Apples",
+    "category": "fruits",
+    "price": 3.00,
+    "image": "https://botanix.com/cdn/shop/files/Malus-domestica-Red-Gala_fe2a1904-c46a-49f6-aa4d-cc4cd8ce111c.jpg?v=1713453664&width=1946",
+    "description": "Crisp organic red apples"
+  },
+  {
+    "id": 3,
+    "name": "Bananas",
+    "category": "fruits",
+    "price": 2.80,
+    "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=400&h=400&fit=crop",
+    "description": "Sweet organic bananas"
+  },
+  {
+    "id": 4,
+    "name": "Organic Honey",
+    "category": "extras",
+    "price": 8.50,
+    "image": "https://5.imimg.com/data5/SELLER/Default/2024/11/465007441/KU/JM/BC/30736415/pure-honey-500x500.webp",
+    "description": "Pure organic honey from local beekeepers"
+  },
+  {
+    "id": 5,
+    "name": "Mixed Nuts",
+    "category": "extras",
+    "price": 12.00,
+    "image": "https://shawsimpleswaps.com/wp-content/uploads/2021/01/Roasted-Mixed-Nuts-1-2.jpg",
+    "description": "Premium mixed organic nuts"
+  },
+  {
+    "id": 6,
+    "name": "Plant Milk",
+    "category": "extras",
+    "price": 4.50,
+    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=400&h=400&fit=crop",
+    "description": "Organic almond and oat milk"
+  },
+  {
+    "id": 7,
+    "name": "Organic Vegetable Package",
+    "category": "packages",
+    "price": 25.00,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&h=400&fit=crop",
+    "description": "Weekly organic vegetable package"
+  },
+  {
+    "id": 8,
+    "name": "Fresh Tomatoes",
+    "category": "vegetables",
+    "price": 3.50,
+    "image": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/tomatoes-1296x728-feature.jpg?w=1155&h=1528",
+    "description": "Juicy organic tomatoes"
+  },
+  {
+    "id": 9,
+    "name": "Organic Fruit Package",
+    "category": "packages",
+    "price": 30.00,
+    "image": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?w=400&h=400&fit=crop",
+    "description": "Weekly organic fruit package"
+  },
+  {
+    "id": 10,
+    "name": "Fresh Spinach",
+    "category": "vegetables",
+    "price": 2.20,
+    "image": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=400&h=400&fit=crop",
+    "description": "Fresh organic spinach leaves"
+  },
+  {
+    "id": 11,
+    "name": "Organic Olive Oil",
+    "category": "extras",
+    "price": 15.00,
+    "image": "https://www.health.com/thmb/uyXFo34rWGaJIPmPfOH4eQ20cRM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/evoo-7c819bcdd0c343a7bae114cbc9baea2f.jpg",
+    "description": "Extra virgin organic olive oil"
+  },
+  {
+    "id": 12,
+    "name": "Mixed Berries",
+    "category": "fruits",
+    "price": 5.50,
+    "image": "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?w=400&h=400&fit=crop",
+    "description": "Fresh organic mixed berries"
+  }
+]
+
